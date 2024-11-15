@@ -9,8 +9,8 @@ npm install --save @kantacky/ghost-google-cloud-storage
 ## Create storage module
 
 ```bash
-mkdir -p /var/lib/ghost/adapters/storage
-cp -r node_modules/@kantacky/ghost-google-cloud-storage/gcloud ./adapters/storage/
+mkdir -p /var/lib/ghost/content/adapters/storage
+cp -r node_modules/@kantacky/ghost-google-cloud-storage/gcloud ./content/adapters/storage/
 ```
 
 ## Configuration
