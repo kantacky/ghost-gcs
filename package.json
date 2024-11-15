@@ -1,5 +1,9 @@
 {
-  "name": "ghost-google-cloud-storage",
+  "name": "@kantacky/ghost-google-cloud-storage",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kantacky/ghost-google-cloud-storage.git"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
