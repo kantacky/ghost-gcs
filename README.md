@@ -3,14 +3,14 @@
 ## Installation
 
 ```bash
-npm install --save ghost-google-cloud-storage
+npm install --save @kantacky/ghost-google-cloud-storage
 ```
 
 ## Create storage module
 
 ```bash
 mkdir -p /var/lib/ghost/adapters/storage
-cp -r node_modules/ghost-google-cloud-storage/gcloud ./adapters/storage/
+cp -r node_modules/@kantacky/ghost-google-cloud-storage/gcloud ./adapters/storage/
 ```
 
 ## Configuration
