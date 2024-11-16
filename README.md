@@ -47,4 +47,4 @@ Notes:
 
 - `assetDomain` is optional, default is `<Bucket Name>.storage.googleapis.com`
 - `insecure` is optional, default is false, set true if use http instead of https
-- `maxAge` is optional, default is 2419200 (= 28 days)
+- `cacheControlMaxAge` is optional, default is 2419200 (= 28 days)
